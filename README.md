@@ -5,7 +5,7 @@ generally have a bad time at spelling? If so, look no further! Oh you need OSX
 with the say command.
 
 ## Why did I make this?
-Really? I was bored and needed to do. I doubt anyone will use it, but maybe
+Really? I was bored and needed something to do. And I suck at spelling. I doubt anyone will use it, but maybe
 someone will find it useful for something else.
 
 ## Setting it up
